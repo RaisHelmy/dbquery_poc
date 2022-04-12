@@ -1,0 +1,29 @@
+{
+  "QueryStartTime": "2022-04-07 10:25:38.443",
+  "QueryEndTime": "2022-04-07 10:25:40.222",
+  "Results": [
+    {
+      "No.Laporan": "TELOK PANGLIMA GARANG/005398/14",
+      "Balai": "TELOK PANGLIMA GARANG",
+      "Kontigen": "SELANGOR",
+      "Tarikh Laporan": "2014-11-26",
+      "Jenis": "MODENAS",
+      "Model/Tahun Buatan": "2002",
+      "Warna": "HITAM",
+      "Pegawai Penyiasat": "PAUL MARCOS ANAK AERON",
+      "No.Polis": "G21664",
+      "No Pendaftaran Kenderaan": "BGR3841",
+      "No Chasis": "PMNAN110F3MLL7920",
+      "No Enjin": "AN110FELM7358",
+      "Recovery Indicator": "Tidak dijumpai",
+      "Recovery Report No": "-",
+      "Interim": "Kenderaan hilang mengesahkan",
+      "Kenderaan Dicuri Di Malaysia": "1",
+      "type": "KenderaanHilang",
+      "QueryStartTime": "2022-04-07 10:25:38.459",
+      "QueryEndTime": "2022-04-07 10:25:40.207",
+      "TypeDescription": "Kenderaan Hilang"
+    }
+  ],
+  "Types": []
+}

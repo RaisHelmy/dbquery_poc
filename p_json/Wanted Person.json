@@ -1,0 +1,27 @@
+{
+  "QueryStartTime": "2022-04-07 10:24:12.902",
+  "QueryEndTime": "2022-04-07 10:24:13.232",
+  "Results": [
+    {
+      "Nama": "ABG. MOHD. AZAM SHEIKHUL BIN ABANG ABDUL WAHAB",
+      "Jantina": "LELAKI",
+      "Agama": "ISLAM",
+      "No.Laporan": "KEMUNTING/002041/14",
+      "IPD": "KEMUNTING",
+      "Kontinjen": "PERAK",
+      "Tarikh Laporan": "2014-04-08",
+      "Akta Kesalahan": "KK 420",
+      "Status": "Dikenhendaki",
+      "Photo": "0",
+      "No.Kad Pengenalan": "960319135651",
+      "Pegawai Penyiasat": "SALIHAN BIN MOHD JURI",
+      "No.Polis": "G19219",
+      "Tarikh Report": "2014-04-08T00:00:00",
+      "type": "OrangDkhd",
+      "QueryStartTime": "2022-04-07 10:24:12.902",
+      "QueryEndTime": "2022-04-07 10:24:13.216",
+      "TypeDescription": "Orang Dikehendaki"
+    }
+  ],
+  "Types": []
+}

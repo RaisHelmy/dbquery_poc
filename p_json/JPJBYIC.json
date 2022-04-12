@@ -1,0 +1,16 @@
+{
+    "QueryStartTime": "2022-04-07 10:32:07.473",
+    "QueryEndTime": "2022-04-07 10:32:10.811",
+    "Results": [
+      {
+        "No.Kenderaan": "JLH8950",
+        "Model": "YAM-YAMAHA",
+        "Tarikh Model": "2008",
+        "type": "JPJIC",
+        "QueryStartTime": "2022-04-07 10:32:07.473",
+        "QueryEndTime": "2022-04-07 10:32:10.795",
+        "TypeDescription": "JPJIC"
+      }
+    ],
+    "Types": []
+  }

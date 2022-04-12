@@ -1,0 +1,24 @@
+{
+  "QueryStartTime": "2022-04-07 10:24:57.090",
+  "QueryEndTime": "2022-04-07 10:24:57.741",
+  "Results": [
+    {
+      "Nama": "WONG KEK KEONG",
+      "Jantina": "LELAKI",
+      "Agama": "BUDDHA",
+      "Bangsa": "CINA",
+      "No Laporan": "BK BARU/003724/12",
+      "No.Kad Pengenalan": "780705055457",
+      "Kontigen": "MELAKA",
+      "Tarikh Laporan": "2012-11-16",
+      "Status": "Masih hilang",
+      "Gambar": "Tiada",
+      "Balai Polis": "BKT. BARU",
+      "type": "OrangHilang",
+      "QueryStartTime": "2022-04-07 10:24:57.106",
+      "QueryEndTime": "2022-04-07 10:24:57.726",
+      "TypeDescription": "Orang Hilang"
+    }
+  ],
+  "Types": []
+}

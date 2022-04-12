@@ -1,0 +1,31 @@
+{
+    "QueryStartTime": "2022-04-07 10:32:54.022",
+    "QueryEndTime": "2022-04-07 10:32:59.342",
+    "Results": [
+      {
+        "No Dokumen": "A40782661",
+        "Tarikh Mula Passport": "20170913",
+        "Sebab Batal": "NORMAL                                                      ",
+        "No Rujukan Pemilik": "7E648899     00",
+        "Cawangan Mengeluar": "KUALA LUMPUR                            ",
+        "Sebab Sah": "DATA SISTEM BARU",
+        "Status Rekod": "Batal",
+        "Jenis Dokumen": "PASPORT MALAYSIA-SEMENANJUNG                      ",
+        "No Siri Dokumen Terdahulu": "3823500",
+        "No Siri Dokumen": "40782661",
+        "No Dokumen Terdahulu": "A27198530",
+        "Tarikh Tamat Passport": "20230116",
+        "Cawangan Memohon": "KUALA LUMPUR                            ",
+        "Tarikh Lahir": "19791214",
+        "No Pengenalan Semasa": "791214145971",
+        "Nama": "CHOY KOK KGOON",
+        "Jantina": "LELAKI",
+        "Nama Dicetak": "CHOY KOK KGOON",
+        "type": "JIM",
+        "QueryStartTime": "2022-04-07 10:32:54.022",
+        "QueryEndTime": "2022-04-07 10:32:58.841",
+        "TypeDescription": "JIM"
+      }
+    ],
+    "Types": []
+  }

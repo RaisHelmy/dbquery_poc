@@ -1,0 +1,26 @@
+{
+  "QueryStartTime": "2022-04-07 10:26:36.437",
+  "QueryEndTime": "2022-04-07 10:26:36.909",
+  "Results": [
+    {
+      "No.Kenderaan": "WEQ8613",
+      "Nama": "CHOY THIAM FATT",
+      "No.Kad Pengenalan": "5305874",
+      "Tarikh Saman": "20030709",
+      "Masa Saman": "1215",
+      "No.Saman": "1806000100001DD682393",
+      "Daerah": "GOMBAK(SELAYANG)",
+      "Kesalahan 1": "APJ1987",
+      "Kesalahan 2": " ",
+      "Kesalahan 3": " ",
+      "Tempat Kesalahan": "KM KM 13 MRR2-GBK",
+      "Kompaun": "Y",
+      "Waran": "Warant:N,Blacklist:N,OpSikap:N",
+      "type": "Saman",
+      "QueryStartTime": "2022-04-07 10:26:36.437",
+      "QueryEndTime": "2022-04-07 10:26:36.909",
+      "TypeDescription": "Saman"
+    }
+  ],
+  "Types": []
+}

@@ -1,0 +1,15 @@
+{
+  "name": "dbquery_poc",
+  "version": "1.0.0",
+  "description": "for poc purpose",
+  "main": "index.js",
+  "repository": "https://github.com/RaisHelmy/dbquery_poc.git",
+  "author": "RaisHelmy <44133630+RaisHelmy@users.noreply.github.com>",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  }
+}
